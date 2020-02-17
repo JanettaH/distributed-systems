@@ -89,12 +89,7 @@ const App = () => {
           />
           <br></br>
 
-          <div>
-            <b>You can try for example these routes:</b>
-
-            <p>https://en.wikipedia.org/wiki/Kangaroo</p>
-            <p>https://en.wikipedia.org/wiki/Northern_Europe</p>
-          </div>
+          <b>You can try for example these routes:</b>
 
           <div>
             <p>https://en.wikipedia.org/wiki/Venus_Flytrap_(film)</p>
